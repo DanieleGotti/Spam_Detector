@@ -30,6 +30,6 @@ The project is implemented using **Python** and **Jupyter Notebook**.
 | `report.pdf` | Technical report describing design choices, experiments, and results |
 
 ## 👨‍💻 Team Members  
-| Name | Student ID |
-|------|-----------|
-| *Daniele Gotti* | *1079011* |
+| Nome | StudentID | GitHub |
+|-------|----------|--------|
+| Daniele Gotti | 1079011 | [@DanieleGotti](https://github.com/DanieleGotti) |  
